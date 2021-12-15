@@ -6,8 +6,6 @@ My name is Liubov (she/her). I am a data-driven professional committed to pursui
 
 **Analytics and Visualization**: Tableau, Pandas, Looker, NumPy, Matplotlib, Excel
 
-**Big Data Techniques & Tools**: PyTorch, AWS (S3, EC2, EMR), GCP, Git, Spark, Hive
-
 **Machine Learning**: NLP, Random Forests, Boosting, Clustering, Neural Network, Recommender Systems
 
 **Statistics**: Experimental Design (A/B Testing), Hypothesis Testing, Time Series Analysis, Regression
